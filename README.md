@@ -48,7 +48,7 @@ For the questions above, this project found that:
 3. No conclusions can be drawn on if more people are reviewing games over time.
 4. Grand strategy games take the longest time to beat and 100%, while puzzle platformers and 2.5D games take the least. The exact numbers of how long each genre took:
 
-![Genre Completion Time](images/data.png)
+![Genre Completion Time](Images/data.png)
 
 ## Limitations
 
